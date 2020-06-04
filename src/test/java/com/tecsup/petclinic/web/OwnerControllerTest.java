@@ -48,7 +48,7 @@ public class OwnerControllerTest {
 	@Test
 	public void testFindOwnerOK() throws Exception {
 
-		String NAME_OWNER = "Marco";
+		String NAME_OWNER = "Marcocsx";
 		String LAST_NAME = "Franklin";
 		String ADDRESS = "110 W. Liberty St.";
 		String CITY = "Madison";
